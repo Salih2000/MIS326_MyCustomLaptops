@@ -4,7 +4,7 @@
 # Requirements
 To develop this system, the following requirements were followed:
 
-The .NET Framework should be used to create web applications.
+The .NET Framework or .NEtcore should be used to create web applications.
 The front-end code (client-side code) should be developed using HTML, CSS, and JavaScript.
 The back-end code (server-side code) should be developed using C#.
 The database schema should be designed to support the requirements
@@ -15,9 +15,8 @@ The main functionalities, use cases, and features of the web-based platform are 
 # Installation and Setup
 To run the system locally, you need to install the following:
 
-Microsoft Visual Studio or any other .NET Framework development environment
+Microsoft Visual Studio or any other .NETcore development environment
 Microsoft SQL Server Express or Developer edition
-.NET Framework version 4.7.2 or later
 Web browser
 After installing the necessary software, follow these steps to set up the project:
 
