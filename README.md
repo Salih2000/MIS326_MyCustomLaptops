@@ -35,4 +35,7 @@ The system is designed to allow users to browse and purchase custom laptops.
 In addition to the core functionalities specified in the case study, the system includes optional functionalities
 such as sorting search results by price and popularity, and generating reports on sales, orders, and inventory levels.
 
+#Resources and Videos I Use
+www.aspsnippets.com/Articles/Net-Core-ADONet-Tutorial-with-example.aspx
+
 
